@@ -1,0 +1,15 @@
+ACUERDO DE LICENCIA DE SOFTWARE - TITANIUM BANK CORE + IA
+
+DERECHOS DE AUTOR Y PROPIEDAD INTELECTUAL
+Copyright (c) 2026 Airan Briceño
+
+Por la presente se establece que el software "Titanium Bank Core + IA" y todo su código fuente, interfaces y lógica asociada son propiedad exclusiva del autor mencionado.
+
+TÉRMINOS DE USO:
+1. PROPIEDAD: El autor retiene todos los derechos, títulos e intereses sobre el software.
+2. RESTRICCIONES: Queda estrictamente prohibida la copia, redistribución, modificación o ingeniería inversa de este software sin el consentimiento expreso y por escrito del autor.
+3. USO COMERCIAL: Esta licencia no otorga derechos para la venta o explotación comercial por parte de terceros.
+4. GARANTÍA: El software se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas.
+
+Todos los derechos reservados.
+Valencia, Carabobo, Venezuela.
