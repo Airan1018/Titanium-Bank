@@ -1,0 +1,8 @@
+mysql-connector-python
+pandas
+reportlab
+python-docx
+qrcode
+matplotlib
+beautifulsoup4
+pyttsx3

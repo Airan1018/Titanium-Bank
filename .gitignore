@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+Auditoria/
+Excel_Registros/
+PDF_Pagos/
+Reportes/
+Tickets_Emitidos/
+*.pyc
